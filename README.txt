@@ -2,6 +2,8 @@ Recipe Recommendation System
 
 This project aims to build a recipe recommendation system based on user preferences, available ingredients, and specific constraints such as cooking time and difficulty level. The system uses collaborative filtering techniques to suggest personalized recipes, factoring in users' past ratings and other data. 
 
+Download data from https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions
+
 1. Data Preprocessing
 The system starts by preprocessing two primary datasets:
 user_ratings_data, and recipes_data
