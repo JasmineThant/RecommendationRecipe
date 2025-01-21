@@ -2,6 +2,8 @@ Recipe Recommendation System
 
 This project is a recipe recommendation system that combines collaborative filtering with content-based filtering. The goal is to recommend recipes to users based on their previous interactions (ratings) and additional constraints like available ingredients and maximum cooking time. 
 
+Get the data from https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions
+
 1. Data Loading
 •	Recipes Data (recipes_df): This dataset contains recipe information, including recipe IDs, names, ingredients, cooking time, and tags.
 •	User Ratings Data (user_ratings_cleaned): This dataset contains user interactions (ratings) with specific recipes. Each row indicates a user, a recipe, and the corresponding rating given by the user.
