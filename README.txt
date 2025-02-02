@@ -1,4 +1,4 @@
-# RecommendationRecipes
+#RecommendationRecipes
 
 This project is a recipe recommendation system that combines collaborative filtering with content-based filtering. The goal is to recommend recipes to users based on their previous interactions (ratings) and additional constraints like available ingredients and maximum cooking time. 
 
